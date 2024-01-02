@@ -7,7 +7,7 @@
  | 이지윤 (성균관대학교 통계학과)
 
 
-`강의` \
+`강의` 
 
 - CS229 : https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2
 - 인공지능 및 기계학습 개론 1: https://www.edwith.org/machinelearning1_17/joinLectures/9738
